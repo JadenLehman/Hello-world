@@ -1,2 +1,10 @@
-# hello-world
-This is my first repository.
+```
+{
+  "firstName": "Jaden",
+  "lastName": "Lehman",
+  "age": 21
+}
+```
+- I like software development
+- I like walking 
+- I like gaming
